@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: "OpenSans";
+    src: url("../font/OpenSans-VariableFont_wdth\,wght.ttf");
+}
+
+@font-face {
+    font-family: "Inter";
+    src: url("../font/Inter-VariableFont_opsz\,wght.ttf");
+}
